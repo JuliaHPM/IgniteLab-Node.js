@@ -23,6 +23,10 @@ Envia informaçãoes, os outros microsserviços ficam ouvindo para recebê-las
 
 
 
-### Aula 1: 
+### Aula 1 
 
 Configurações iniciais do Prisma e Nest
+
+### Aula 2
+
+Criação de classes, getters e setters, testes, prisma repository e testes de persistência com in memory database
