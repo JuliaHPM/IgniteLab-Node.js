@@ -1,9 +1,9 @@
-# Ignite lab - Node
+# Ignite lab Node - Notification Service 📲
 
 Criação de uma aplicação em Node com microsserviços para envio de notificação push.
 
 
-# Tecnologias
+## Tecnologias 
 
 - Node
 - Nest.js
@@ -11,19 +11,18 @@ Criação de uma aplicação em Node com microsserviços para envio de notifica�
 
 ### Nest
 
-- permite diversas integrações.
+- permite diversas integrações
 - inversão e injeção de dependencias
 
 
-## Microsserviço
+### Microsserviço
 
-Dividir a aplicação em partes menores
-Um banco de dados para cada aplicação
-Envia informaçãoes, os outros microsserviços ficam ouvindo para recebê-las
+- dividir a aplicação em partes menores
+- um banco de dados para cada aplicação
+- envia informaçãoes, os outros microsserviços ficam ouvindo para recebê-las
 
 
-
-### Aula 1 
+## Aula 1
 
 Configurações iniciais do Prisma e Nest
 
